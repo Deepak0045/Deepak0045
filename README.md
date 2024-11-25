@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak0045&show_icons=true&locale=en" alt="deepak0045" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0045&" alt="deepak0045" /></p>
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
