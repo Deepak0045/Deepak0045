@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
+---
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=deepak0045&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0045" /> 
 </p>
 
+---
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepak0045" alt="deepak0045" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deepak0045&theme=dracula" alt="deepak0045" />
   </a> 
 </p>
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -20,6 +26,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -43,19 +51,29 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0045&show_icons=true&locale=en&layout=compact" alt="deepak0045" />
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak0045&show_icons=true&locale=en" alt="deepak0045" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak0045&show_icons=true&locale=en&layout=compact&theme=dracula" alt="deepak0045" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0045&" alt="deepak0045" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak0045&show_icons=true&locale=en&theme=dracula" alt="deepak0045" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak0045&theme=dracula" alt="deepak0045" />
+</p>
+
+---
 
 <h3 align="center">Hello World!!</h3>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
