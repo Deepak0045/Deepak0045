@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
+<h4 align="center">I am currently learning web development.</h4>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=deepak0045&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0045" /> 
-</p>
+<h3 align="center">Hello World!!</h3>
 
 ---
 
@@ -71,7 +70,9 @@
 
 ---
 
-<h3 align="center">Hello World!!</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=deepak0045&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0045" /> 
+</p>
 
 ---
 
