@@ -70,12 +70,6 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=deepak0045&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0045" /> 
-</p>
-
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" /> <img src="https://komarev.com/ghpvc/?username=deepak0045&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0045" /> 
 </p>
