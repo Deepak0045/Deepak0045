@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
-<h3 align="center">I am currently learning web development.</h3>
+<h3 align="center">I am currently learning Django.</h3>
 
 ---
 
